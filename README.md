@@ -47,7 +47,7 @@ https://Manga-API.flawlessx.repl.co/api/hot_manga_update/
 
 ### Manga Detail
 
-```Manga-API.flawlessx.repl.co/api/manga/detail/:manga_endpoint ```
+```https://manga-api.fly.dev/api/manhwa/detail:manga_endpoint ```
 
 <details><summary> Example Response </summary>
 <p>
